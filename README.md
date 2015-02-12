@@ -11,6 +11,7 @@ For example: `f(z) = z^4 - 1`
 You can use the `-l` option to loop the frame generation with a slight zoom.
 
 For example: `f(z) = z^3 - 1`
+
 ![Newton fractal zoom](NewtonFractal_zoom.gif)
 
 ## Get it running
