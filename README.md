@@ -3,11 +3,13 @@
 Python3 based [Newton fractal](https://en.wikipedia.org/wiki/Newton_fractal) calculation. This script makes use of all your cores by spawning multiple processes.
 
 You can easily change the used function to generate fractals as you like.
+
 For example: `f(z) = z^4 - 1`
 
 ![Newton fractal](NewtonFractal.png)
 
 You can use the `-l` option to loop the frame generation with a slight zoom.
+
 For example: `f(z) = z^3 - 1`
 ![Newton fractal zoom](NewtonFractal_zoom.gif)
 
